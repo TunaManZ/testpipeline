@@ -23,6 +23,7 @@ agent any
             steps {
                 echo 'Deploy..'
 				echo 'ssss'
+				echo '98989898'
             }
         }
     }
