@@ -22,6 +22,7 @@ agent any
         stage('Deploy') {
             steps {
                 echo 'Deploy..'
+				echo 'ssss'
             }
         }
     }
